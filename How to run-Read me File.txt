@@ -1,0 +1,28 @@
+
+Running from command line:
+
+python {Path}\{Script name}.py Parameter1 Parameter2 -o
+
+python C:\Users\sgp\Documents\Shutterfly v1.1.py  C:\Users\sgp\Documents\events.txt C:\Users\sgp\Documents\outputfile_TOP3CTLVdata.txt
+
+
+I have developed and tested the code in pycharm.
+
+Pycharm --->. run---> Edit configurations and set the following parameters
+
+Scriptname values should be C:\Users\sgp\PycharmProjects\PYparsing\Shutterfly.py
+Script parameters values should be C:\Users\sgp\Documents\events.txt C:\Users\sgp\Documents\outputfile_TOP3CTLVdata.txt
+
+Place the script input file and python script is required path and choose run menu and click run scriptname.py. The code will execute
+and producte the output file.
+
+Note:
+All events are kept in single input file
+i have setup 4 samples which includes the one provided as sample.
+
+
+============================================
+
+please use Shutterfly v1.1.py script.This the final one
+
+=============================================
