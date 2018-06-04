@@ -1,0 +1,5 @@
+                               CLTV  Top_rnk
+customer_id  Customer_name                  
+96f555dfc96w Adam           21507.2      3.0
+85f555dfc85w keith          20222.8      2.0
+45f555dfc45w Mitch          17420.0      1.0

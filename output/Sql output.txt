@@ -1,0 +1,4 @@
+	CUSTOMER_NAME	CTLV	TOPRNK
+	Adam		21,507.20		3
+	Keith		20,222.80		2
+	Mitch		17,425.20		1
