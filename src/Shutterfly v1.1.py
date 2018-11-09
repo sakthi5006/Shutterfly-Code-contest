@@ -169,9 +169,9 @@ def main():
 
     print("Dear User")
 
-    value = str(y) + '\n'
+    values = str(y) + '\n'
 
-    file.write(value)
+    file.write(values)
 
     print("The output is written " + str(out_file_path))
 
